@@ -1,0 +1,5 @@
+LinkID,src,dst,cap,IGP cost,TE cost,Affinity,delay,backgroundbw
+0,0,1,1525,0,0,0,0,0
+1,0,2,1129,0,0,0,0,0
+2,0,3,1141,0,0,0,0,0
+3,1,2,1843,0,0,0,0,0
